@@ -31,13 +31,11 @@ En cuanto al alcance logrado, el proyecto completó el procesamiento inicial de 
 Finalmente, en las pruebas y validación se obtuvieron mediciones consistentes de BPM, SpO₂ y temperatura, con visualización continua y activación adecuada de alertas; se describe un funcionamiento estable del flujo hardware-software durante pruebas físicas. 
 
 
+3. [Informe](#informe)
 
  
-
-Informe final de Proyecto- Moni…
-3. [Informe](#informe)
-4. [Implementación](#implementacion)
-5. [Lista de anexos](#anexos)
+5. [Implementación](#implementacion)
+6. [Lista de anexos](#anexos)
 
 ## Descripción
 
