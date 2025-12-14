@@ -12,6 +12,11 @@
 Indice:
 
 1. [Descripción](#descripción)
+2. [Informe](#informe)
+3. [Implementación](#implementacion)
+4. [Lista de anexos](#anexos)
+
+## Descripción
 
 El proyecto “Monitoreo Inteligente de Signos Vitales” consiste en el desarrollo de un sistema embebido basado en FPGA/SoC (Zynq-7000) orientado a monitorear en tiempo real tres parámetros fisiológicos clave: frecuencia cardíaca (BPM), saturación de oxígeno (SpO₂) y temperatura, con el fin de apoyar la detección temprana de anomalías en contextos donde no hay monitoreo continuo (por ejemplo, adultos mayores o zonas con menor acceso a servicios médicos). 
 
@@ -31,16 +36,6 @@ En cuanto al alcance logrado, el proyecto completó el procesamiento inicial de 
 Finalmente, en las pruebas y validación se obtuvieron mediciones consistentes de BPM, SpO₂ y temperatura, con visualización continua y activación adecuada de alertas; se describe un funcionamiento estable del flujo hardware-software durante pruebas físicas. 
 
 
-3. [Informe](#informe)
-
- 
-5. [Implementación](#implementacion)
-6. [Lista de anexos](#anexos)
-
-## Descripción
-
-<!-- Descripción general y lo mas completa posible del proyecto" -->
-
 ## Informe
 
 <!-- Link que permita acceder al Informe, el cual debe estar subido a este repositorio -->
@@ -49,7 +44,7 @@ Finalmente, en las pruebas y validación se obtuvieron mediciones consistentes d
 
 <!-- Video explicativo del funcionamiento del proytecto -->
 
-
+## Archivos
 <!-- CREAR UN DIRECTORIO CON EL NOMBRE "src" DONDE INVLUYAN LAS FUENTE (.c Y .h) QUE CREARON PARA EL PROOYECTO-->
 
 <!-- NO OLVIDAD SUBIR EL PDF GENERADOR EN DEL BLOCK DESIGN-->
